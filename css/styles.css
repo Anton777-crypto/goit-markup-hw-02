@@ -63,7 +63,7 @@ ul {
 .header-section {
   background-color: #2e2f42;
 }
-.header-section-h1 {
+.header-section-h {
   font-weight: 700;
   font-size: 56px;
   line-height: 107%;
@@ -90,7 +90,7 @@ ul {
   background-color: #404bbf;
 }
 
-.section-two-h3 {
+.section-two-h {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
@@ -112,7 +112,7 @@ ul {
   background-color: #f4f4fd;
 }
 
-.section-three-h2 {
+.section-three-h {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 36px;
@@ -126,7 +126,7 @@ ul {
 .section-three-li {
   background-color: #ffffff;
 }
-.img-comment-h3 {
+.img-comment-h {
   font-weight: 500;
   font-size: 20px;
   line-height: 120%;
@@ -145,7 +145,7 @@ ul {
   color: #434455;
 }
 
-.section-four-h2 {
+.section-four-h {
   font-weight: 700;
   font-size: 36px;
   line-height: 111%;
@@ -157,7 +157,7 @@ ul {
 
 .section-four-li {
 }
-.section-four-h3 {
+.section-four-h {
   font-weight: 500;
   font-size: 20px;
   line-height: 120%;
