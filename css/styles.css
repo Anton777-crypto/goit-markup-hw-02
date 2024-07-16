@@ -136,7 +136,6 @@ ul {
 }
 
 .img-comment-p {
-  font-family: var(--font-family);
   font-weight: 400;
   font-size: 16px;
   line-height: 150%;
@@ -148,7 +147,7 @@ ul {
 .section-four-h {
   font-weight: 700;
   font-size: 36px;
-  line-height: 111%;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
